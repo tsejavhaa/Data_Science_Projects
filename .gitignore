@@ -1,5 +1,6 @@
 # Python virtual environment
 venv/
+.venv/
 
 # Python byte-compiled files
 __pycache__/
@@ -38,3 +39,6 @@ fashion_cnn_resnet18.pth
 # OS
 .DS_Store
 Thumbs.db
+
+# File
+.env
